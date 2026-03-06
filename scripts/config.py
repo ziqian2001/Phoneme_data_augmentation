@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-# filepath: /proj/uppmax2025-2-505/ziqian/experiment/scripts/config.py
+
 """
 Central configuration for the cross-lingual TTS experiment.
-Handles paths for English (Source) to Swedish, Japanese, and Swahili (Targets).
 """
 import os
 
